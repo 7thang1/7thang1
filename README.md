@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7thang1&label=Profile%20views&color=b40e0e&style=flat" alt="7thang1" /> </p>
-## Get in touch
+<h2 align="left">Get in touch:</h2>
 - 📫 How to reach me **tanthinhdev@gmail.com**
 - 🌏 Explore the 3Tee Universe **[3Tee on the Internet 🚀](https://link.tanthinh.id.vn)**
 <h3 align="left">Connect with me:</h3>
