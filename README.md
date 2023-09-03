@@ -5,6 +5,7 @@
 <h2 align="left">Get in touch:</h2>
 - 📫 How to reach me **tanthinhdev@gmail.com**
 - 🌏 Explore the 3Tee Universe **[3Tee on the Internet 🚀](https://link.tanthinh.id.vn)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tanthinhdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanthinhdev" height="30" width="40" /></a>
